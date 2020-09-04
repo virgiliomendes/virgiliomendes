@@ -30,7 +30,7 @@ Pesquisador do Projeto de Pesquisa Media Bias e ex-data analyst da Quaest Consul
 
 </details>
 
-[website]: virgiliomendes.github.io
+[website]: https://virgiliomendes.github.io
 [gmail]: mailto:virgilioebm@gmail.com
 [twitter]: https://twitter.com/Mendes_txt
 [linkedin]: https://www.linkedin.com/in/virgiliomendes/
