@@ -1,12 +1,13 @@
 ### Virgilio de Araújo Mendes
 
-Mestrando em Ciência Política na UFMG, na área de Comportamento Político, e Bacharel em Ciências Sociais pela Universidade Federal de Minas Gerais (UFMG). <br />
+Mestre em Ciência Política na UFMG, na área de Comportamento Político, e Bacharel em Ciências Sociais pela Universidade Federal de Minas Gerais (UFMG). <br />
+Cursando Especialização em Ciência de Dados e Big Data na PUC/MG. <br />
 Ex-diretor da Coordenadoria de Projetos da MEIOS JR. <br />
 Pesquisador do Projeto de Pesquisa Media Bias (UFMG)  <br />
 Pesquisador do Centro de Estudos do Comportamento Político (UFMG) e com expertise em análise e processamento de surveys.
 
 
-*Master student in Political Science at Federal University of Minas Gerais (UFMG)* <br />
+*Master in Political Science at Federal University of Minas Gerais (UFMG)* <br />
 *Bachelor of Social Sciences by the Federal University of Minas Gerais (UFMG)* <br />
 *Researcher at the Media Bias Project (UFMG)* <br />
 *Researcher at the Political Behavior Study Center (UFMG)* <br />
