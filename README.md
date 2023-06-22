@@ -33,7 +33,7 @@ Pesquisador do Centro de Estudos do Comportamento Político (UFMG) e com experti
 
 </details>
 
-[website]: https://virgiliomendes.github.io
+[website]: https://virgilioamendes.quarto.pub/
 [gmail]: mailto:virgilioebm@gmail.com
 [twitter]: https://twitter.com/Mendes_txt
 [linkedin]: https://www.linkedin.com/in/virgiliomendes/
