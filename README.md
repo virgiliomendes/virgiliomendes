@@ -1,6 +1,6 @@
 ### Virgilio de Araújo Mendes
 
-Analista de Relações Governamentais pela FIEMG. <br />
+
 Mestre em Ciência Política na UFMG, na área de Comportamento Político, e Bacharel em Ciências Sociais pela Universidade Federal de Minas Gerais (UFMG). <br />
 Cursando Especialização em Ciência de Dados e Big Data na PUC/MG. <br />
 Ex-diretor da Coordenadoria de Projetos da MEIOS JR. <br />
@@ -8,18 +8,12 @@ Pesquisador do Projeto de Pesquisa Media Bias (UFMG)  <br />
 Pesquisador do Centro de Estudos do Comportamento Político (UFMG) e com expertise em análise e processamento de surveys.
 
 
-*Government Relations at FIEMG* <br />
+
 *Master in Political Science at Federal University of Minas Gerais (UFMG)* <br />
 *Bachelor of Social Sciences by the Federal University of Minas Gerais (UFMG)* <br />
 *Researcher at the Media Bias Project (UFMG)* <br />
 *Researcher at the Political Behavior Study Center (UFMG)* <br />
 
-
-### Find Me 📫 :
-[<img align="left" alt="virgiliomendes.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Virgilio Mendes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Virgilio Mendes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 ### Linguagens e Ferramentas:
